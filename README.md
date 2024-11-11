@@ -1,0 +1,1 @@
+Общие DTO для проекта orchestrator и  account management service 
