@@ -22,7 +22,7 @@ dependencies {
 }
 
 tasks.jar {
-    archiveFileName.set("common.jar")
+    archiveFileName.set("common-${project.version}.jar")
 }
 
 publishing {
